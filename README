@@ -1,0 +1,8 @@
+#Win32 GDBM Library 	Port of the GNU GDBM library to Win32.
+#By Davide Libenzi
+#http://www.xmailserver.org/davide.html
+
+#
+#Xiaofeng create this repo for learning the source code, implementation of extendible hashing and C interface
+#
+#
